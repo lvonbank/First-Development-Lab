@@ -1,0 +1,5 @@
+C:\Users\Levi\Documents\Visual Studio 2015\Projects\GFUDemo_CS\GFUDemo_CS\obj\Debug\GFUDemo_CS.csprojResolveAssemblyReference.cache
+C:\Users\Levi\Documents\Visual Studio 2015\Projects\GFUDemo_CS\GFUDemo_CS\bin\Debug\GFUDemo_CS.dll
+C:\Users\Levi\Documents\Visual Studio 2015\Projects\GFUDemo_CS\GFUDemo_CS\bin\Debug\GFUDemo_CS.pdb
+C:\Users\Levi\Documents\Visual Studio 2015\Projects\GFUDemo_CS\GFUDemo_CS\obj\Debug\GFUDemo_CS.dll
+C:\Users\Levi\Documents\Visual Studio 2015\Projects\GFUDemo_CS\GFUDemo_CS\obj\Debug\GFUDemo_CS.pdb
